@@ -1,0 +1,1 @@
+1.Adding Delete Button in IG -https://medium.com/@Radwan.salameh/add-delete-button-to-your-interactive-grid-in-oracle-apex-f0d35bb04dec
